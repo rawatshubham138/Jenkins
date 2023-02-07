@@ -1,7 +1,7 @@
 # Spring Boot Hello World Example Project.
 
 
-- check is user a root user.
+- check if user a root user.
 - apt-get update
 - apt-get install maven
 - mvn test
